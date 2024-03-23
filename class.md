@@ -1,4 +1,3 @@
-Arpita 
-India
-Full Stack Development
+Lutful bari
+Android developer
 
